@@ -1,0 +1,39 @@
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\OneDrive\Studies\Programming\Grand Circus\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\source\repos\GetToKnowYourClassmates\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.exe
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.deps.json
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.json
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.runtimeconfig.dev.json
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\bin\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csprojAssemblyReference.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.csproj.CoreCompileInputs.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfoInputs.cache
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.AssemblyInfo.cs
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.dll
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.pdb
+C:\Users\desha\source\repos\GetToKnowYourClassmatesUpdate\GetToKnowYourClassmates\obj\Debug\netcoreapp3.1\GetToKnowYourClassmates.genruntimeconfig.cache
